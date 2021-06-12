@@ -9,6 +9,6 @@
 3. 針對各項變數提出優化及解決方法。
 
 ### 檔案：<br>
-data_preproccessing.ipynb : 資料前處理
-title_exploratory.ipynb : 標題切詞及成效分析
-charts.R : 製作圖表、統計分析(變數顯著性、boxplot)
+data_preproccessing.ipynb : 資料前處理 <br>
+title_analysis.ipynb : 標題切詞及成效分析 <br>
+charts.R : 製作圖表、統計分析(變數顯著性、boxplot) <br>
